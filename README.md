@@ -15,12 +15,7 @@ The dataset used in this project was downloaded from Kaggle (https://www.kaggle.
 The data was cleaned using ETL (extract, transform, and load) processes. I extracted the data set from Kaggle via a CSV file, transformed the data using Power BI's query editor, and loaded the cleaned and transformed data into Power BI's data model for analysis and visualization. To clean the data (within the Power BI query editor) I filtered out any missing or incomplete records, renamed the columns for clarity, wrote a script in which to categorize the user ages into specific groups (i.e., Teenages 13-18,  Young Adults 19-24), and removed unnecessary columns.
 
 # What were the key attributes of the data?
-Emoji: Emoji used
-Age: User age
-Gender: User gender (male or female)
-Age Group: User age group (Teenagers 13-18, etc.,) 
-Platform: Social media platform where  emoji was used
-Reason: Reason for using  emoji (i.e., love, confusion, celebration, etc.,)
+Emoji (Emoji used), Age: (User age), Gender: (User gender such as male or female), Age Group: (User age group such as Teenagers 13-18, etc.,), Platform: (Social media platform where emoji was used), Reason: (Reason for using  emoji such as love, confusion, celebration, etc.,).
 
 # DATA ANALYZATION
 # What analyses were performed?
@@ -33,10 +28,7 @@ Pie Charts: Examine the distribution of emoji usage by platform and the reasons 
 KPI Visuals: Highlight the total emoji usage count
 
 # What are some of the project's main insights or findings?
-The analysis revealed that certain emojis are universally popular across all demographics, while others are more commonly used by specific age groups or genders. For example, the report  showed that at the time of this anonymous survey, Twitter was the most popular platform for emoji usage. Additionally, 
-
-# What surprised you about the findings?
-One surprising finding was that despite the popularity of certain emojis among all users, the reasons for using those emojis varied significantly by gender. For instance, women were more likely to use the same emojis in contexts of love or celebration, while men used them in contexts of humor or confusion.
+The analysis revealed that certain emojis are universally popular across all demographics, while others are more commonly used by specific age groups or genders. For example, the report  showed that at the time of this anonymous survey, Twitter was the most popular platform for emoji usage. Additionally, the analysis revealed how certain emojis are used in different contexts such as love or humor. Understanding the reasons for emoji usage can offer insight into how emojis convey emotions or enhance digital communication. 
 
 # FEATURES
 # What features make this report interactive?
