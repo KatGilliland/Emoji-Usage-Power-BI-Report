@@ -1,4 +1,5 @@
 # EMOJI USAGE POWER BI REPORT BY KAT GILLILAND
+![image](https://github.com/user-attachments/assets/d2c45688-4f10-4b02-8ef1-f4aa3bb38abd)
 
 # PROJECT OVERVIEW
 # What is the purpose of this project?
